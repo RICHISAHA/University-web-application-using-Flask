@@ -1,4 +1,4 @@
-# University-web-application
+# University-web-application using Flask
 
 - A dynamic web application created using Flask framework
 - Making use of Flask-MongoEngine to help store and track data
